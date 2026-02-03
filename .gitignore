@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+outputs/
 .eggs/
 lib/
 lib64/
@@ -47,6 +48,7 @@ nosetests.xml
 coverage.xml
 *.cover
 *.py.cover
+*.pyc
 .hypothesis/
 .pytest_cache/
 cover/
